@@ -10,7 +10,10 @@ Copy of Presentation: <a href="https://cloudburst.azurewebsites.net/](https://gi
 
 Watch Cloudburst session at Microsoft Reactor Stockholm YouTube Channel:
 <a href="https://www.youtube.com/watch?v=s-srfnrR9jo" target="_blank">Microsoft Reactor - Cloudburst 2022 Automating DevOps Releases using .NET and Azure Durable Functions by Jonah Andersson</a>
-#### Questions and feedback related to the session, contact Jonah on <a href="https://twitter.com/cjkodare" target="_blank">Twitter @cjkodare</a> or <a href="https://twitter.com/cjkodare" target="_blank">LinkedIn Jonah Andersson</a> or reach via other media https://linktr.ee/jonahandersson
+
+CloudBurst Conference 2022 Playlist of all session can be watched on https://www.youtube.com/playlist?list=PLmsFUfdnGr3wcseVLP-d7R1XwtdH5f9C- 
+
+Questions and feedback related to the session: <br/> Please contact Jonah on <a href="https://twitter.com/cjkodare" target="_blank">Twitter @cjkodare</a> or <a href="https://twitter.com/cjkodare" target="_blank">LinkedIn Jonah Andersson</a> <br/> or reach via other media https://linktr.ee/jonahandersson
 
 ![image](https://user-images.githubusercontent.com/14919667/199809251-878ae738-665a-4936-b1fa-7665baee73a8.png) 
 
